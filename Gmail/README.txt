@@ -1,0 +1,2 @@
+To run all tests, use command mvn clean test -Dtestng.xml=gmail_tests.xml in the project root.  
+The parameter -Dbrowser.name has the following allowed values: FireFox, IE, Chrome, Edge. Just make sure you have necessary WebDrivers installed.
